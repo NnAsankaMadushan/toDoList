@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "To do List",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NnAsankaMadushan/toDoList.git"
+  },
+  "author": "Asanka Madushan",
+  "license": "MIT",
+  "private": null,
+  "bugs": {
+    "url": "https://github.com/NnAsankaMadushan/toDoList/issues"
+  },
+  "homepage": "https://github.com/NnAsankaMadushan/toDoList#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
