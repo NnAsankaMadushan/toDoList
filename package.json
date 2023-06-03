@@ -16,5 +16,11 @@
   "homepage": "https://github.com/NnAsankaMadushan/toDoList#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2"
   }
 }
